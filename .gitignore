@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# SSL certs
+selfsigned.crt
+selfsigned.key
+
+# Knex configuration
+knexfile.js
